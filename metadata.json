@@ -1,0 +1,8 @@
+{
+  "name": "Remix TEPROX",
+  "description": "el progrma  es convertidor de texto a audio anivel profecinal ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
